@@ -24,12 +24,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.cdowebcast.com
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status CDOWEBCAST
-  introTitle: "**Status** - Painel de Monitoramento de Serviços."
-  introMessage: Monitoramento em tempo real de servidores.
+  introTitle: "**Status** - Service Monitoring Panel"
+  introMessage: "Service Monitoring"
   navbar:
     - title: Status
       href: /

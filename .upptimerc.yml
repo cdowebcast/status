@@ -1,18 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: cdowebcast # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: cdowebcast.com.br
+    url: https://www.cdowebcast.com.br
+  - name: cdowebcast.com
+    url: https://www.cdowebcast.com
+  - name: voxstream.com.br
+    url: https://voxstream.com.br
+  - name: voxstreaming.com.br
+    url: https://voxstreaming.com.br
+  - name: voxcast.com.br
+    url: https://voxcast.com.br
+  - name: voxhost.com.br
+    url: https://voxhost.com.br
+  - name: radiobr.net
+    url: https://radiobr.net
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -20,12 +24,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status CDOWEBCAST
+  introTitle: "**Status** - Painel de Monitoramento de Serviços."
+  introMessage: Monitoramento em tempo real de servidores.
   navbar:
     - title: Status
       href: /

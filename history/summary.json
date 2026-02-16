@@ -12,11 +12,11 @@
     "uptimeYear": "0.00%",
     "time": 228,
     "timeDay": 280,
-    "timeWeek": 228,
+    "timeWeek": 224,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-02-16": 161,
+      "2026-02-16": 1219,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -39,11 +39,11 @@
     "uptimeYear": "0.00%",
     "time": 139,
     "timeDay": 155,
-    "timeWeek": 139,
+    "timeWeek": 140,
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2026-02-16": 161,
+      "2026-02-16": 1219,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -70,7 +70,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-02-16": 161,
+      "2026-02-16": 1219,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -85,7 +85,7 @@
     "url": "https://voxstreaming.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/voxstreaming.com.br.ico",
     "slug": "voxstreaming-com-br",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -93,10 +93,12 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 380,
-    "timeWeek": 367,
+    "timeWeek": 358,
     "timeMonth": 367,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-16": 0
+    }
   },
   {
     "name": "voxcast.com.br",
@@ -111,7 +113,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 338,
-    "timeWeek": 319,
+    "timeWeek": 321,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -122,14 +124,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/voxhost.com.br.ico",
     "slug": "voxhost-com-br",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 637,
     "timeDay": 657,
-    "timeWeek": 637,
+    "timeWeek": 626,
     "timeMonth": 637,
     "timeYear": 637,
     "dailyMinutesDown": {
@@ -153,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 161,
+      "2026-02-16": 1219,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,

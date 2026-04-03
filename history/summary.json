@@ -16,7 +16,7 @@
     "timeMonth": 208,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-04-03": 169,
+      "2026-04-03": 966,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -89,7 +89,7 @@
     "timeMonth": 131,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-04-03": 169,
+      "2026-04-03": 966,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -162,7 +162,7 @@
     "timeMonth": 198,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-04-03": 169,
+      "2026-04-03": 966,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/voxstreaming.com.br.ico",
     "slug": "voxstreaming-com-br",
     "status": "up",
-    "uptime": "88.87%",
+    "uptime": "88.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.87%",
+    "uptimeYear": "88.98%",
     "time": 470,
     "timeDay": 660,
     "timeWeek": 711,
@@ -249,7 +249,7 @@
     "url": "https://voxcast.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/voxcast.com.br.ico",
     "slug": "voxcast-com-br",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -260,7 +260,9 @@
     "timeWeek": 295,
     "timeMonth": 300,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-03": 0
+    }
   },
   {
     "name": "voxhost.com.br",
@@ -301,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-03": 169,
+      "2026-04-03": 966,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,

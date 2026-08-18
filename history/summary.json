@@ -323,17 +323,17 @@
     "url": "https://voxstreaming.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/voxstreaming.com.br.ico",
     "slug": "voxstreaming-com-br",
-    "status": "down",
-    "uptime": "96.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "96.90%",
-    "time": 906,
-    "timeDay": 10383,
-    "timeWeek": 4601,
-    "timeMonth": 1936,
-    "timeYear": 906,
+    "status": "up",
+    "uptime": "96.89%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "96.89%",
+    "time": 905,
+    "timeDay": 7150,
+    "timeWeek": 4245,
+    "timeMonth": 1900,
+    "timeYear": 905,
     "dailyMinutesDown": {
       "2026-02-22": 1040,
       "2026-02-21": 1440,
@@ -343,7 +343,7 @@
       "2026-02-17": 1440,
       "2026-02-16": 221,
       "2026-08-16": 26,
-      "2026-08-18": 0
+      "2026-08-18": 16
     }
   },
   {
@@ -411,7 +411,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 647,
+      "2026-08-18": 662,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
